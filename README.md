@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaswata Ghosh</h1>
 <h3 align="center">A passionate frontend developer from Kolkata,India</h3>
-<img align="right" alt="coding" width="4000" src="https://miro.medium.com/v2/resize:fit:2400/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2400/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif">
 
 - 🔭 I’m currently working on **Movie Recommendation System**
 
